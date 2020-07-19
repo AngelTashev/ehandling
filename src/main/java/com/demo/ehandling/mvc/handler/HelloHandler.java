@@ -1,6 +1,6 @@
-package com.demo.ehandling.handler;
+package com.demo.ehandling.mvc.handler;
 
-import com.demo.ehandling.exception.HelloException;
+import com.demo.ehandling.mvc.exception.HelloException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
